@@ -1,0 +1,13 @@
+                    <td>
+                      <a href="#" class="text-center"><i class="bi bi-lok"></i>LOGOUT </a>
+                    </td>
+
+                    <td>
+                      <button class="btn btn-primary btn-lg btn-block mt-3">Save</button>
+                    </td>
+                    <td>
+                      <button class="btn btn-danger btn-lg btn-block mt-1">Calc</button>
+                    </td>
+
+
+                    
